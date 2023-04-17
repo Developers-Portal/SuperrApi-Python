@@ -8,7 +8,7 @@ Created on Wed Mar  8 11:41:10 2023
 from superapi import superApi 
 
 
-c1 = superApi( api_key= "rFHyEymPbSyUKJQ9" , userId= "SM93429", password= "India@567",apisecret= "BEHPpCs2YpilqDxMe7Y2vG")
+c1 = superApi( api_key= "Your Api key" , userId= "Your trading ID", password= "Password",apisecret= "Your secret key")
 
 c1.generateSession()
 
