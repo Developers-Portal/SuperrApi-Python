@@ -17,7 +17,7 @@ import time
 class superApi():
     
     _rootUrl = "https://openapi.stoxkart.com"
-    # _rootUrl = "https://uatauth.smcindiaonline.org"
+   
     
     url = {"auth.login" : "/auth/login",
            "auth.2fa" : "/auth/twofa/verify",
